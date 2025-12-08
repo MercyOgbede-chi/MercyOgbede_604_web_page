@@ -19,11 +19,12 @@ As a developing data analyst, my goal is to transform complex datasets into clea
 
 
 ## Education
+I completed my undergraduate studies at Imo State University in Nigeria, where I earned a Bachelor’s degree in Education with a concentration in Government. That background strengthened my understanding of social systems and public issues, which now shapes how I approach data. I am currently pursuing my M.S. in Data Analytics & Computational Social Science at the University of Massachusetts Amherst, where I am building advanced skills in statistical modeling, machine learning, visualization, and data-driven storytelling.
 
-
+\n
 
 ## Experience
-
+I have gained hands-on experience working with a range of analytical tools including Python, R, and SQL, applying them across multiple data-focused projects. My work spans various domains: analyzing CO₂ emissions across U.S. states, modeling housing prices in Dubai, and examining unemployment disparities across demographic groups. I have also completed machine learning projects such as predicting obesity levels based on eating habits and physical conditions. In addition, my experience with text-as-data techniques includes extracting themes from women’s narratives shared on Reddit to better understand health experiences. Across these projects, I have practiced structuring analytical questions, building predictive models, interpreting uncertainty, and crafting clear visual explanations, all essential components of data-driven storytelling.
 :::
 
 Thanks for checking out my web site!
