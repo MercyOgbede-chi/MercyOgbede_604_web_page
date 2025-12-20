@@ -1,7 +1,11 @@
 # MercyOgbede_604_web_page
 
 
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:	
+This repository contains my personal GitHub Pages website, which presents my academic background, selected data-driven projects, and a dashboard visualization. The site highlights how quantitative analysis and visualization can be used to communicate insights from real-world data through a professional web format.
+
+Project website: https://yourusername.github.io/your-repo-name/
+
+advanced data driven story telling
 
 *This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
 
