@@ -3,9 +3,6 @@
 
 This repository contains my personal GitHub Pages website, which presents my academic background, selected data-driven projects, and a dashboard visualization. The site highlights how quantitative analysis and visualization can be used to communicate insights from real-world data through a professional web format.
 
-Project website: https://yourusername.github.io/your-repo-name/
-
-advanced data driven story telling
 
 *This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
 
