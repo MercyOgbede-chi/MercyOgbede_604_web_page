@@ -7,6 +7,7 @@ title: "Projects"
 ### Dubai Property Pricing Analysis  
 This project investigates how property characteristics such as size, number of bedrooms, bathrooms, and location affect real estate prices in Dubai. Using a dataset of over 1,800 properties, I conducted data cleaning, exploratory analysis, and multiple regression modeling to identify key pricing predictors. The project demonstrates how regression analysis can be applied in real estate business contexts and highlights how structural features and location-driven attributes influence market value..
 
+https://rpubs.com/Chi_pubs/Dubai_Property_Prices
 
 🔗 **Project Link:**  
 [📄 Dubai Property Pricing Analysis (PDF)](https://github.com/MercyOgbede-chi/Exploratory-Analysis/blob/main/Dubai_Property_Pricing.pdf){target="_blank"}
