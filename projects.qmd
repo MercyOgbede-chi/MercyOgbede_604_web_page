@@ -24,3 +24,9 @@ This project analyzes unemployment patterns in the United States across gender a
 
 🔗 **Project Link:**  
 [📄 Unemployment Disparity Analysis (Notebook)](https://github.com/MercyOgbede-chi/Exploratory-Analysis/blob/main/Unemployment%20Disparity%20Among%20Gender%20and%20Race.ipynb){target="_blank"}
+
+
+
+
+## Simple Dash board for 604
+https://rpubs.com/Chi_pubs/1383085
